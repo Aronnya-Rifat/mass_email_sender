@@ -15,7 +15,7 @@ for i in data:
         connection.login(user=my_email, password=password)
         connection.sendmail(from_addr=my_email,
                             to_addrs=email,
-                            msg=f"Subject:Are you looking for Data Entry Specialist? or Virtual Assistance\n\n"#Subject
+                            msg=f"Subject:SUBJECT\n\n"#Subject
                                 f"Hello {name},\n"#Header
 f"""
 BODY PARAGRAPH
